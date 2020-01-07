@@ -1,0 +1,1 @@
+Write with os.Create 2019, 例, 1234.560000
